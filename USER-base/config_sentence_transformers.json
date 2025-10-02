@@ -1,0 +1,12 @@
+{
+  "__version__": {
+    "sentence_transformers": "2.5.1",
+    "transformers": "4.38.2",
+    "pytorch": "2.2.0a0+81ea7a4"
+  },
+  "prompts": {
+    "query": "query: ",
+    "passage": "passage: "
+  },
+  "default_prompt_name": "query"
+}
